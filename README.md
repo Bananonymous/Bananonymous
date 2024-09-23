@@ -46,5 +46,3 @@
 
 ---
 
-Feel free to reach out via email at [leon.surbeck@gmail.com](mailto:leon.surbeck@gmail.com) or check out my latest projects below!
-
